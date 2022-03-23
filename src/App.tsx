@@ -6,6 +6,7 @@ import { Planets } from './pages/Planets';
 
 export const App = () => {
   const [page, setPage] = useState('planets');
+
   return (
     <div className="app">
       <Navbar setPage={setPage} />

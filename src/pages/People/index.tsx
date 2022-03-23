@@ -16,7 +16,7 @@ export const People = () => {
   if (isLoading || isFetching)
     return (
       <LoadingBar
-        color="#f11946"
+        color="#ffcc4d"
         progress={progress}
         onLoaderFinished={() => setProgress(0)}
       />
