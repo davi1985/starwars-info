@@ -1,4 +1,4 @@
-<h1 align="center">Startwars</h1>
+<h1 align="center">Startwars Info</h1>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
