@@ -11,8 +11,6 @@ export const People = () => {
   const { page, previousPage, nextPage } = usePagination();
   const { data, isLoading, isError, isFetching } = usePeople(page);
 
-  console.log(data);
-
   if (isLoading || isFetching)
     return (
       <LoadingBar
