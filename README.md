@@ -12,7 +12,7 @@
 
 ## :dart: About
 
-Using React Query, this project requests the Star Wars API and renders some info about people and planets.
+Using React Query, this project requests the Star Wars API and renders some info about people and planets with pagination.
 
 ## :rocket: Technologies
 
