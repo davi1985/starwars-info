@@ -3,11 +3,5 @@ footer {
   padding: 2rem;
   color: #ccc;
   border-top: 1px solid #333;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  max-width: 960px;
-  margin: 0 auto;
   text-align: center;
 }
