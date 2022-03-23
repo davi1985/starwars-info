@@ -1,0 +1,27 @@
+nav {
+  margin-bottom: 2rem;
+  text-align: center;
+  border-bottom: 1px solid #333;
+  padding-bottom: 1rem;
+}
+
+h1 {
+  color: #ffcc4d;
+  font-size: 3rem;
+  letter-spacing: 2px;
+  text-align: center;
+  padding: 1.5rem 0;
+}
+
+a {
+  margin: 0 1rem;
+  padding: 0.8rem 1rem;
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+a:hover {
+  text-decoration: underline;
+}

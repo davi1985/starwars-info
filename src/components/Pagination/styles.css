@@ -1,0 +1,22 @@
+.pagination {
+  display: flex;
+  padding: 1.5rem 0;
+}
+
+button + button {
+  margin-left: 1rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  border: none;
+  background: #7796f3;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  transition: filter 0.3s;
+}
+
+button:hover {
+  filter: brightness(0.8);
+}
